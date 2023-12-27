@@ -36,7 +36,7 @@ function App() {
             <div className="heading">
               {search.toUpperCase()}
             </div>
-            <h1 className="temp">{city.temp}</h1>
+            <h1 className="temp">{city.temp}° C</h1>
             <h3 className="tempmin_max"> Min : {city.temp_min}° C |   Max: {city.temp_max}° C</h3>
             <h3 className="tempmin_max">Country {country.country} </h3>
           </div>
