@@ -1,0 +1,60 @@
+.maindiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 380px;
+    height: 250px;
+    padding: 20px 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 5px 6px 2px #222121;
+    background: rgb(44, 44, 44);
+    font-family: Montserrat;
+}
+
+.serchdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: center;
+    margin-bottom: 40px;
+    border-radius: 10px;
+
+}
+
+.heading {
+    color: rgb(255, 255, 255);
+    margin: 20px auto;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px solid rgb(73, 71, 86);
+    border-radius: 10px;
+    text-align: center;
+    
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+h3 {
+    color: rgb(199, 192, 192);
+}
+
+p {
+    color: white;
+}
+
+
+input {
+    padding: 10px;
+    font-size: 14px;
+    border-bottom:1px grey;
+    outline: none;
+    background: rgb(44, 44, 44);
+    color: white;
+    font-family: Montserrat;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
